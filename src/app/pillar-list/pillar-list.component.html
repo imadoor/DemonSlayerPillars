@@ -1,0 +1,50 @@
+<div class='card'>
+    <div class='card-header'>
+        {{pageTitle}}
+    </div>
+    <div class='card-body'>
+        <div class='row'>
+            <div class='col-md-2'>Filter by:</div>
+            <div class='col-md-4'>
+                <!-- <input type='text' [(ngModel)]='listFilter' /> -->
+            </div>
+        </div>
+        <div class='row'>
+            <div class='col-md-6'>
+                <h4>Filtered by: {{listFilter}}</h4>
+            </div>
+        </div>
+        <div class='table-responsive'>
+            <table class='table' *ngIf='pillars && pillars.length'>
+                <thead>
+                    <tr>
+                        <th>
+                            <button class='btn btn-primary' (click)='toggleImage()'>
+                {{showImage ? 'Hide' : 'Show'}} Image
+              </button>
+                        </th>
+                        <th>Pillar Title</th>
+                        <th>Name</th>
+                        <th>Gender</th>
+                        <th>Status</th>
+                        <th>5 Star Rating</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let pillar of pillars'>
+                        <td>
+                            <img *ngIf='showImage' [src]='pillar.imageUrl' [title]='pillar.productName' [style.width.px]='imageWidth' [style.margin.px]='imageMargin'>
+                        </td>
+                        <td>{{ pillar.pillarTitle }}</td>
+                        <td>{{ pillar.name }}</td>
+                        <td>{{ pillar.gender }}</td>
+                        <td>{{ pillar.status }}</td>
+                        <td>{{ pillar.rating }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</div>

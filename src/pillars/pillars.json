@@ -1,0 +1,73 @@
+[{
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/c/cc/KyoujurouP.png/revision/latest/scale-to-width-down/130?cb=20181211180848",
+        "pillarTitle": "The Flame Pillar",
+        "name": "Kyoujurou Rengoku",
+        "gender": "Male",
+        "status": "Deceased",
+        "rating": 4.2
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/3/37/TengenP.png/revision/latest/scale-to-width-down/130?cb=20181211180940",
+        "pillarTitle": "The Sound Pillar",
+        "name": "Tengen Uzui",
+        "gender": "Male",
+        "status": "Retired",
+        "rating": 4.4
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4b/MitsuriP.png/revision/latest/scale-to-width-down/130?cb=20181211180853",
+        "pillarTitle": "The Love Pillar",
+        "name": "Mitsuri Kanroji",
+        "gender": "Female",
+        "status": "Active",
+        "rating": 4.1
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/7/79/GyouemiP.png/revision/latest/scale-to-width-down/130?cb=20190121033746",
+        "pillarTitle": "The Rock Pillar",
+        "name": "Gyoumei Himejima",
+        "gender": "Male",
+        "status": "Active",
+        "rating": 4.5
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f7/MuichirouP.png/revision/latest/scale-to-width-down/130?cb=20181211180900",
+        "pillarTitle": "The Mist Pillar",
+        "name": "Muichirou Tokitou",
+        "gender": "Male",
+        "status": "Active",
+        "rating": 4.1
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/7/79/ObanaiP.png/revision/latest/scale-to-width-down/130?cb=20181211180906",
+        "pillarTitle": "The Snake Pillar",
+        "name": "Obanai Iguro",
+        "gender": "Male",
+        "status": "Active",
+        "rating": 4.6
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a5/GiyuuP.png/revision/latest/scale-to-width-down/130?cb=20181211180835",
+        "pillarTitle": "The Water Pillar",
+        "name": "Giyuu Tomioka",
+        "gender": "Male",
+        "status": "Active",
+        "rating": 4.7
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5b/ShinobuP.png/revision/latest/scale-to-width-down/130?cb=20181211180934",
+        "pillarTitle": "The Insect Pillar",
+        "name": "Shinobu Kochou",
+        "gender": "Female",
+        "status": "Deceased",
+        "rating": 4.3
+    },
+    {
+        "imageUrl": "https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/1/11/SanemiP.png/revision/latest/scale-to-width-down/130?cb=20181211180917",
+        "pillarTitle": "The Wind Pillar",
+        "name": "Sanemi Shinazugawa",
+        "gender": "Male",
+        "status": "Active",
+        "rating": 4.1
+    }
+]
